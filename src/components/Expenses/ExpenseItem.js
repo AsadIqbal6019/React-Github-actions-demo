@@ -4,7 +4,7 @@ import ExpenseDate from "./ExpenseDate";
 import Card from "../UI/Card";
 
 const ExpenseItem = (props) => {
-  const [title, setTitle] = useState(props.title);
+  // const [title, setTitle] = useState(props.title);
   // const expenseDate = new Date(2021, 9, 1);
   // const expenseTitle = "Car Insurance";
   // const expenseAmount = 294.67;
