@@ -12,11 +12,11 @@ const ExpenseItem = (props) => {
   // const day = props.date.toLocaleString('en-US',{day:'2-digit'});
   // const year = props.date.getFullYear();
 
-  const clickHandler = () => {
-    setTitle("Updated!");
+  // const clickHandler = () => {
+  //   setTitle("Updated!");
 
-    console.log("Click Me...");
-  };
+  //   console.log("Click Me...");
+  // };
   return (
     <li>
       <Card className="expense-item">
